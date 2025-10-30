@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+*.pkl
+
+# Java/Spring Boot
+target/
+*.class
+*.jar
+*.war
+*.iml
+
+# IDE files
+.vscode/
+.idea/
+*.log
